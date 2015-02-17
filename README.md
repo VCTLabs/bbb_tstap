@@ -12,13 +12,13 @@ Assuming Qt5 dev libraries and headers are already installed.
 
 ### Operation
 
-Run from a shell so you can see the output.
+Run from a remote ssh shell so you can see the output.
 
-The coordinates of mouse press/release events are written
-to stdout.
+The app will run fullscreen so you won't see the output otherwise.
 
-You can test with a real USB mouse connected or by using the
-touchscreen directly.
+The coordinates of mouse press/release events are written to stdout.
+
+You can test with a USB mouse or by using the touchscreen directly.
 
 Output is X Y for each event shown like this
 
